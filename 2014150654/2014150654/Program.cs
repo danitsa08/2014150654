@@ -10,7 +10,14 @@ namespace _2014150654
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mensaje de prueba");
+
+           // Console.Write("Comenzar");
+
+            ATM obj = new ATM();
+
+            obj.comenzar();
+
+           
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\danitsa\Documents\Visual Studio 2013\Projects\2014150654\2014150654\2014150654\bin\Debug\2014150654.exe.config
+C:\Users\danitsa\Documents\Visual Studio 2013\Projects\2014150654\2014150654\2014150654\bin\Debug\2014150654.exe
+C:\Users\danitsa\Documents\Visual Studio 2013\Projects\2014150654\2014150654\2014150654\bin\Debug\2014150654.pdb
+C:\Users\danitsa\Documents\Visual Studio 2013\Projects\2014150654\2014150654\2014150654\obj\Debug\2014150654.csprojResolveAssemblyReference.cache
+C:\Users\danitsa\Documents\Visual Studio 2013\Projects\2014150654\2014150654\2014150654\obj\Debug\2014150654.exe
+C:\Users\danitsa\Documents\Visual Studio 2013\Projects\2014150654\2014150654\2014150654\obj\Debug\2014150654.pdb
